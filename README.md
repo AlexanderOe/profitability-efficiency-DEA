@@ -1,8 +1,8 @@
-# R_profitability
+# Profitability efficiency using DEA with trade-offs
 
 Replication code for the paper
 
-> Oettl, A. (2026). *Profitability Efficiency in Data Envelopment Analysis: A Trade-Off Based Approach with a Generalized Distance Function*. European Journal of Operational Research.
+> Öttl, A. (2026). *Profitability Efficiency in Data Envelopment Analysis: A Trade-Off Based Approach with a Generalized Distance Function*. European Journal of Operational Research.
 
 The scripts reproduce the numerical example, the illustration of allocative
 efficiency and the empirical application to Taiwanese banks. All estimations use
@@ -84,4 +84,4 @@ Columns: `bank` (name), `id` (F1–F31), and each variable by year, e.g.
 
 ## Contact
 
-Alexander Oettl, University of Copenhagen — alexander@ifro.ku.dk
+Alexander Öttl, University of Copenhagen — alexander@ifro.ku.dk
