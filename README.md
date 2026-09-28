@@ -84,4 +84,4 @@ Columns: `bank` (name), `id` (F1–F31), and each variable by year, e.g.
 
 ## Contact
 
-Alexander Öttl, University of Copenhagen — alexander@ifro.ku.dk
+Alexander Öttl, University of Copenhagen (alexander@ifro.ku.dk)
